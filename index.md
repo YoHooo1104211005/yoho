@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to yoho Pages
 
 You can use the [editor on GitHub](https://github.com/YoHooo1104211005/yoho/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
